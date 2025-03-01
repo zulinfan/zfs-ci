@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![img](https://openzfs.github.io/openzfs-docs/_static/img/logo/480px-Open-ZFS-Secondary-Logo-Colour-halfsize.png)
 
 OpenZFS is an advanced file system and volume manager which was originally
@@ -33,3 +34,6 @@ For more details see the NOTICE, LICENSE and COPYRIGHT files; `UCRL-CODE-235197`
 # Supported Kernels
   * The `META` file contains the officially recognized supported Linux kernel versions.
   * Supported FreeBSD versions are any supported branches and releases starting from 13.0-RELEASE.
+=======
+# zfs
+>>>>>>> 1f732b565 (Initial commit)
